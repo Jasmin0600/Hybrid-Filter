@@ -1,1 +1,5 @@
-# Hybrid-Filter
+# Family Tree of Movie Recommendation System Research
+
+This repository contains an extensive collection of datasets and Jupyter notebooks that underpin the development and evaluation of a movie recommendation system. The data spans multiple sources, including the MovieLens 100K and 1M datasets, enriched with BERT embeddings and Whisper model transcriptions. The Jupyter notebooks document the experiments, ranging from collaborative filtering and object detection to advanced NLP techniques using BERT and Whisper. The repository is organized into CSV files for raw and processed data, notebooks for exploratory data analysis, model training, and evaluation, as well as images and scripts used throughout the research.
+
+Explore the repository to understand the intricate steps taken to build, evaluate, and refine the recommendation system, including feature extraction, similarity calculations, and predictive modeling. This work aims to advance the field of recommendation systems by integrating state-of-the-art techniques in natural language processing and computer vision.
